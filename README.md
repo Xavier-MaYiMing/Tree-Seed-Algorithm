@@ -12,8 +12,8 @@
 | pos        | The position of all trees (list)                  |
 | score      | The score of all trees (list)                     |
 | dim        | Dimension                                         |
-| gbest      | The position of the global best tree              |
-| gbest_pos  | The score of the global best tree (list)          |
+| gbest      | The score of the global best tree              |
+| gbest_pos  | The position of the global best tree (list)          |
 | seed_pos   | The position of the seeds of the ith tree (list)  |
 | seed_score | The score of the seeds of the ith tree (list)     |
 | iter_best  | The global best score of each iteration (list)    |
